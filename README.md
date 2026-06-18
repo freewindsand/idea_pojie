@@ -5,7 +5,7 @@ idea激活码破解
 官方链接：[IDEA2025.1](https://download-cdn.jetbrains.com/idea/ideaIU-2025.1.exe)
 
 # 2、下载破解程序
-[win_idea_Pojie](https://github.com/freewindsand/idea_pojie/releases/download/1.0/win_idea_Pojie.zip)
+[win_idea_Pojie](https://github.com/freewindsand/idea_pojie/releases/download/1.0/win_idea_Pojie_update.zip)
 
 # 3、解压压缩包到非中文目录
 <img width="452" height="258" alt="image" src="https://github.com/user-attachments/assets/757f8df7-e1a9-42a4-bf37-226893aa53cb" />
